@@ -1,3 +1,3 @@
 # Trove
 
-This is a placeholder site that will host the documentation for Trove, a Microsoft Garage project
+Please review the terms of use for the Trove Limited Preview [here](./Trove Limited Preview Terms of Use.pdf)
