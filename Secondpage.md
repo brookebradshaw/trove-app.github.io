@@ -1,5 +1,4 @@
 ---
-layout: jekyll-theme-slate
 title: "Secondpage"
 permalink: /secondpage/
 ---
