@@ -1,6 +1,6 @@
-# Trove
+# Quick Links
 
-## Quick links
+<br/>
 
 [Trove Limited Preview Terms of Use](./Trove Limited Preview Terms of Use.pdf)
 <br/>
