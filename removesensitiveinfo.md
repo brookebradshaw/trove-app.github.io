@@ -25,7 +25,8 @@ The following third party apps/ guides can help you with the process of blacking
 ***
 
 **iOS:** [Blur or black out images (iOS)](https://www.softwarert.com/blur-pixelate-black-out-images-iphone/) 
-***
+
+
 **Android:**
 	
   1. [Polish app (Google Play Store)](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) – Choose “Photo” to access/ pick your photos, and use the “Draw” effect from the menu at the bottom after choosing a photo to edit
