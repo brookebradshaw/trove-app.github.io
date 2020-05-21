@@ -3,7 +3,7 @@ title: "Trove: Removing sensitive information before sending your photos"
 permalink: /removesensitiveinfo/
 ---
 
-#Revising photos to remove personal or sensitive information 
+# Revising photos to remove personal or sensitive information 
 
 Thinking of submitting photos to a project in Trove? Keep in mind that your photos should not contain any personal or sensitive information. Please ensure you are removing all such information before you submit your photos:
 
@@ -20,9 +20,12 @@ Please make sure to blur out/ white out/ black out any personal, sensitive or co
 
 The following third party apps/ guides can help you with the process of blacking out or blurring content in your photos.
 
+***
 *Note: These are third-party apps or services (not provided or supported by Microsoft), and you should review the third-party terms and privacy policies before you install or use them. Microsoft is not responsible or liable to you or others for information or services provided by any third-party apps or services.  See “Using Third-Party Apps and Services” in the [Microsoft Services Agreement](https://microsoft.com/servicesagreement) for additional information.*
+***
 
-**iOS:** [Blur or black out images (iOS)](https://www.softwarert.com/blur-pixelate-black-out-images-iphone/)
+**iOS:** [Blur or black out images (iOS)](https://www.softwarert.com/blur-pixelate-black-out-images-iphone/) 
+***
 **Android:**
 	
   1. [Polish app (Google Play Store)](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) – Choose “Photo” to access/ pick your photos, and use the “Draw” effect from the menu at the bottom after choosing a photo to edit
