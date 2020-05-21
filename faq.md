@@ -49,9 +49,9 @@ Through clear and transparent licensing, Trove provides both you and the AI deve
 
 **How do I sign up to participate?**
 
-If you are a photo taker and would like to share your photos, please [sign up here](https://aka.ms/trytrove). 
+If you are a photo taker and would like to share your photos, please **[sign up here](https://aka.ms/trytrove)**. 
 
-If you are an AI developer and would like to publish your project in Trove, please [sign up here](https://aka.ms/troveaddproject). 
+If you are an AI developer and would like to publish your project in Trove, please **[sign up here](https://aka.ms/troveaddproject)**. 
 
 **When will I hear if I have been added to the preview?**
 
@@ -65,7 +65,7 @@ Please follow the instructions you were emailed on how to download and install t
 
 **I’m an AI developer and want to collect photos for my AI project. How do I do this?**
 
-If you are an AI developer and would like to publish your project in Trove, please [sign up here](https://aka.ms/troveaddproject). 
+If you are an AI developer and would like to publish your project in Trove, please **[sign up here](https://aka.ms/troveaddproject)**. 
 
 
 **How do I get help or learn more?**
