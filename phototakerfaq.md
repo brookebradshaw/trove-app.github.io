@@ -22,7 +22,7 @@ Please contact us at [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@mi
 2.	Follow the instructions from the TestFlight app to install Trove
 3.	After you install the app, you will then sign in to the app with the consumer email you provided (usually @hotmail.com or @outlook.com)
 
-*Install worked?*
+*Install worked?*
 
 Great! You can start using Trove and contributing to projects. 
  
@@ -41,15 +41,15 @@ Then:
 2.	Trove should now be in your home/ other screens 
 3.	After you install the app, you will then sign into the app with the consumer email you provided (usually @hotmail.com or @outlook.com)
 
-*Install worked?*  
+*Install worked?*  
 
 Great! You can start using Trove and contributing to projects. 
  
 *Something went wrong? Here are a few troubleshooting steps.*
 
-•	I see an error saying that I am not added to the app – Make sure you sign in with the same Google ID you provided us
-•	I get an error while downloading – Please email a screenshot to [projecttrovehelp@microsoft.com](projecttrovehelp@microsoft.com) 
-•	I get an error saying that Porto is only available to people 18 years of age and older – This is related to your Microsoft account / Microsoft consumer email and what age you have declared in that account. Check that you've entered the right birthdate at [https://account.microsoft.com](https://account.microsoft.com)
+1. I see an error saying that the app is not available – Make sure you sign in with the same Google ID you provided us.
+2. I get an error while downloading – Please email a screenshot to [projecttrovehelp@microsoft.com](projecttrovehelp@microsoft.com) 
+3. I get an error saying that Porto is only available to people 18 years of age and older – This is related to your Microsoft account / Microsoft consumer email and what age you have declared in that account. Check that you've entered the right birthdate at [https://account.microsoft.com](https://account.microsoft.com)
 
 
 **How do I sign in to the app?**
@@ -98,7 +98,7 @@ If you need help with something else, you can reach out to the Trove team by ema
 
 **How do I opt out of Trove and ensure that my data is removed?**
 
-If you want to opt out of Trove, go to https://aka.ms/projecttrovefeedback and choose the Opt-out option in the form. You will also be unsubscribed from all email communications. 
+If you want to opt out of Trove, go to [https://aka.ms/trovefeedback](https://aka.ms/trovefeedback) and choose the Opt-out option in the form. You will also be unsubscribed from all email communications. 
 
 
 
