@@ -1,3 +1,9 @@
 # Trove
 
-Please review the terms of use for the Trove Limited Preview [here](./Trove Limited Preview Terms of Use.pdf)
+## Quick links
+
+[Trove Limited Preview Terms of Use](./Trove Limited Preview Terms of Use.pdf)
+[Trove Limited Preview Sweepstakes Rules](/Trove Limited Preview Sweepstakes Official Rules.pdf)
+[Trove Community Standards](/communitystandards/)
+[Trove FAQ](/faq/)
+
