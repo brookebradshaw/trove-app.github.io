@@ -22,6 +22,6 @@ For the photos you are sharing, you can use the following tools  to remove any i
 
 **On Windows** – You can remove metadata by selecting a bunch of photos, selecting Properties in the right-click menu, and clicking “Remove Properties and Personal Information” in the Details tab
 
-***
+
 
 ![](/RemovemetadataWindows.jpg)
