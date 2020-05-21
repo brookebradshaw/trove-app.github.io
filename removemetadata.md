@@ -21,7 +21,8 @@ For the photos you are sharing, you can use the following tools  to remove any i
 **On MacOS** – You can download the [ImageOptim app]((https://imageoptim.com/mac) to remove metadata before sharing 
 
 **On Windows** – You can remove metadata by selecting a bunch of photos, selecting Properties in the right-click menu, and clicking “Remove Properties and Personal Information” in the Details tab
-
+<br/>
+<br/>
 
 
 ![](/RemovemetadataWindows.jpg)
