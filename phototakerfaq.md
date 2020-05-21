@@ -77,7 +77,7 @@ Along the way, you’re always welcome to reach out to the project owner for cla
 
 **When will I know if I won in the sweepstakes?**
 
-You will be entered to win in a sweepstakes for each photo that meets a project’s requirements. There will be three different drawings between May and August 2020, and you will be emailed if you win. If you have questions about your entries, you can email [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com). Please also refer to the [sweepstakes terms and conditions](/Trove Limited Preview Sweepstakes Offical Rules.pdf).
+You will be entered to win in a sweepstakes for each photo that meets a project’s requirements. There will be three different drawings between May and August 2020, and you will be emailed if you win. If you have questions about your entries, you can email [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com). Please also refer to the [sweepstakes terms and conditions](/Trove Limited Preview Sweepstakes Official Rules.pdf).
 
 **What is photo metadata, why am I being asked to remove it and how do I remove it?**
 
