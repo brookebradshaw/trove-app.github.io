@@ -5,11 +5,13 @@ permalink: /removemetadata/
 
 # Removing photo metadata before sending to a project in Trove
 
-**Why:**Most photos taken with smartphones automatically have information like location, device ID, etc.  attached to the photo file. To protect your privacy, you should remove these fields before sharing.
+**Why:** Most photos taken with smartphones automatically have information like location, device ID, etc.  attached to the photo file. To protect your privacy, you should remove these fields before sharing.
 
 For the photos you are sharing, you can use the following tools  to remove any identifying metadata before submitting the link to Trove. 
 
+
 *Note:With the exception of Windows features described below, these are third-party apps or services (not provided or supported by Microsoft), and you should review the third-party terms and privacy policies before you install or use them. Microsoft is not responsible or liable to you or others for information or services provided by any third-party apps or services.  See “Using Third-Party Apps and Services” in the [Microsoft Services Agreement](https://microsoft.com/servicesagreeement) for additional information.* 
+
 
 **On Android** – You can use the app below: [Photo Exif Editor](https://play.google.com/store/apps/details?id=net.xnano.android.photoexifeditor)
 
