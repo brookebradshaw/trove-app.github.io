@@ -33,7 +33,7 @@ As a photo taker, you can:
 3.	Provide a shared link where your photos are stored.
 4.	Earn entries for the sweepstakes when your photos match requirements and are approved
 
-As an AI developer, reach out to our team to add your project to the Trove app.
+As an AI developer, reach out to our team to learn about adding your projects to the Trove app.
 
 **What data does Trove store?**
 
@@ -51,7 +51,7 @@ Through clear and transparent licensing, Trove provides both you and the AI deve
 
 If you are a photo taker and would like to share your photos, please **[sign up here](https://aka.ms/trytrove)**. 
 
-If you are an AI developer and would like to publish your project in Trove, please **[sign up here](https://aka.ms/troveaddproject)**. 
+If you are an AI developer and would like to learn more about adding your project in Trove, please **[sign up here](https://aka.ms/troveaddproject)**. 
 
 **When will I hear if I have been added to the preview?**
 
