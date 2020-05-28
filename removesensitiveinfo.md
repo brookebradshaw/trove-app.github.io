@@ -7,7 +7,7 @@ permalink: /removesensitiveinfo/
 
 Thinking of submitting photos to a project in Trove? Keep in mind that your photos should not contain any personal or sensitive information. Please ensure you are removing all such information before you submit your photos:
 
-**Important note: Don't submit photos that contain information/ intellectual property that you don't have rights to share.
+*Important note: Don't submit photos that contain information/ intellectual property that you don't have rights to share.*
 
 ***1.	Personal or sensitive information***
 
