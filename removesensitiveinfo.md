@@ -7,6 +7,8 @@ permalink: /removesensitiveinfo/
 
 Thinking of submitting photos to a project in Trove? Keep in mind that your photos should not contain any personal or sensitive information. Please ensure you are removing all such information before you submit your photos:
 
+**Important note: Don't submit photos that contain information/ intellectual property that you don't have rights to share.
+
 ***1.	Personal or sensitive information***
 
 Certain photos or screenshots may contain personal or sensitive information of you or others – including but not limited to  full name, mailing address, email address, phone numbers, social media handles, SSN numbers, tax Ids, passport numbers, driver license numbers and license plates, credit card numbers, bank account numbers, and bank routing numbers.
