@@ -57,7 +57,7 @@ If you are an AI developer and would like to learn more about adding your projec
 
 Our team at Microsoft will email you at the address you provided with instructions on how to download and install the app. 
 
-*Please make sure to check your junk folder and that you have added [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com) to your safe senders list, so future emails don’t go into your junk folder.*
+*Please make sure to check your junk folder and that you have added [trovehelp@e-mail.microsoft.com](mailto:trovehelp@e-mail.microsoft.com) to your safe senders list, so future emails don’t go into your junk folder.*
 
 **I’ve been added as a photo taker. Now what?** 
 
