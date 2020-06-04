@@ -6,7 +6,7 @@ permalink: /phototakerfaq/
 
 **How do I download the app?**
 
-If you have signed up, our team at Microsoft will send you an email with instructions to download and install the app on your iOS or Android device
+If you have signed up, our team at Microsoft will send you an email with instructions to download and install the app on your iOS or Android device.
 
 If you haven't signed up - please [sign up here](https://aka.ms/trytrove). You will need a Microsoft account and may have to enter your Google ID if you use an Android device.
 
