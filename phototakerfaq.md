@@ -16,7 +16,7 @@ Please contact us at [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@mi
 
 **I use an iPhone. I received the invite email for Trove. What do I do next?**
 
-**iPhone users** – you will need to download the Apple TestFlight app during the process
+**iPhone users** – you will need to download the Apple TestFlight app during the process:
 
 1.	You should have received an email directly from Apple inviting you to test Trove. Open this email on your phone and then click on the link 
 2.	Follow the instructions from the TestFlight app to install Trove
